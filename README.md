@@ -31,7 +31,7 @@ What you need is the idea — that AI can grow.
 
 ## 📬 Contact
 
-This project is early. Quiet. Intentional.
-If you see yourself in it, reach out.
+> 🚧 This is a work-in-progress experimental repo related to memory-based local LLM structure.
+> Full public release is not yet available.
 
-Email: [twicerain@gmail.com](mailto:twicerain@gmail.com)
+Contact for collaboration inquiries: [twicerain@gmail.com](mailto:twicerain@gmail.com)
