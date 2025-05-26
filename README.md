@@ -39,6 +39,7 @@ We have submitted our collective to **[OpenCollective](https://opencollective.co
 to raise funds for building the first Ubuntu-based memory server.  
 Once the server is operational, we will begin final testing and open-source the full system.
 
+This is youtube IA Mmoery Saver **[Introuction link](https://www.youtube.com/@ia_memoryt_saver)**
 ---
 
 ## 📂 Repository Contents
